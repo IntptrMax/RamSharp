@@ -1,4 +1,4 @@
-This is a simple Demo for recognize-anything (https://github.com/xinyu1205/recognize-anything/tree/main)
+This is a simple C# Demo for recognize-anything (https://github.com/xinyu1205/recognize-anything/tree/main)
 
 The demo image is：
 
