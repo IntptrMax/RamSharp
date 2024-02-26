@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamSharp", "RamSharp\RamSharp.csproj", "{0064CF0A-BED8-434C-8F1A-2247FB5FB7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamSharpTest", "RamSharpTest\RamSharpTest.csproj", "{E619D0B2-13A0-4301-981B-DF274F28FB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0064CF0A-BED8-434C-8F1A-2247FB5FB7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0064CF0A-BED8-434C-8F1A-2247FB5FB7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0064CF0A-BED8-434C-8F1A-2247FB5FB7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0064CF0A-BED8-434C-8F1A-2247FB5FB7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E619D0B2-13A0-4301-981B-DF274F28FB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E619D0B2-13A0-4301-981B-DF274F28FB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E619D0B2-13A0-4301-981B-DF274F28FB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E619D0B2-13A0-4301-981B-DF274F28FB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B219069-48F9-4135-8461-180878F95803}
+	EndGlobalSection
+EndGlobal
